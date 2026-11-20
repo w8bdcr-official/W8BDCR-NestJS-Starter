@@ -1,8 +1,14 @@
 {
-  "name": "nest-typescript-starter",
+  "name": "w8bdcr-nestjs-starter",
   "private": true,
   "version": "1.0.0",
-  "description": "Nest TypeScript starter repository",
+  "description": "W8BDCR NestJS TypeScript starter — build efficient and scalable server-side applications",
+  "author": "W8BDCR",
+  "homepage": "https://github.com/w8bdcr-official/W8BDCR-NestJS-Starter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/w8bdcr-official/W8BDCR-NestJS-Starter.git"
+  },
   "license": "MIT",
   "scripts": {
     "build": "nest build",
